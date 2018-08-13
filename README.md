@@ -17,5 +17,6 @@ FiiiCoin is built using an enhanced version of Proof-of-Capacity consensus algor
 ## Recommended IDE Tool
 
 [Visual Studio Community 2017](https://visualstudio.microsoft.com/)
+
 [Visual Studio Code](https://visualstudio.microsoft.com/)
 
