@@ -58,7 +58,7 @@ For beginner:
 
 1. Download and install the wallet from Release
 
-2. Run the *.exe executable with Administrator privilege
+2. Run the *.exe executable with administrator rights
 
 For expert:
 
@@ -69,6 +69,20 @@ For expert:
 3. Run the wallet by executing the FiiiCoin.Wallet.Win in the Wallet folder
 
 4. Run the mining application by executing the FiiiCoin.Miner in the Wallet folder
+
+# Mining FiiiCoin
+
+1. Run the wallet with administrator rights
+
+2. Wait for block synchronization complete
+
+3. Click Receive Address from the top menu of the wallet
+
+4. Copy the wallet address
+
+5. Download and extract FiiiCoin.Miner_portable.zip
+
+6. Execute dotnet FiiiCoin.Miner.dll mining <Worker> <Wallet Address>
 
 # Change Log
 
