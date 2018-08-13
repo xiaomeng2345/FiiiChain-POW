@@ -86,6 +86,10 @@ For expert:
 
 6. Execute dotnet FiiiCoin.Miner.dll mining <Worker> <Wallet Address>
 
-# Change Log
+# Resources
 
-2018-08-13 15:52          Added alpha version source code
+1. [Yellow Paper](https://fiii.io/images/doc/fiiicoin.yellowpaper.v01.pdf)
+
+2. [White Paper](https://fiii.io/images/doc/whitepaper.pdf)
+
+3. [Official Website](https://fiii.io)
