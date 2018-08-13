@@ -56,18 +56,19 @@ Database: SQLite
 
 For beginner:
 
-1. Download the wallet from Release
+1. Download and install the wallet from Release
 
 2. Run the *.exe executable with Administrator privilege
 
-
 For expert:
 
-1. Run the node by executing the FiiiChain.Node which is located at the Node\Presentation folder
+1. Open the project with Visual Studio
 
-2. Run the wallet by executing the FiiiCoin.Wallet.Win in the Wallet folder
+2. Run the node by executing the FiiiChain.Node which is located at the Node\Presentation folder
 
-3. Run the mining application by executing the FiiiCoin.Miner in the Wallet folder
+3. Run the wallet by executing the FiiiCoin.Wallet.Win in the Wallet folder
+
+4. Run the mining application by executing the FiiiCoin.Miner in the Wallet folder
 
 # Change Log
 
