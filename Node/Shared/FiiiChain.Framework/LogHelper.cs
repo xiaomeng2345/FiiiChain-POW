@@ -1,4 +1,7 @@
-﻿using log4net;
+﻿// Copyright (c) 2018 FiiiLab Technology Ltd
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE or or http://www.opensource.org/licenses/mit-license.php.
+using log4net;
 using log4net.Config;
 using log4net.Repository;
 using System;

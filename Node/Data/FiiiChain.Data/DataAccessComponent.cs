@@ -1,4 +1,7 @@
-﻿using FiiiChain.Framework;
+﻿// Copyright (c) 2018 FiiiLab Technology Ltd
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE or http://www.opensource.org/licenses/mit-license.php.
+using FiiiChain.Framework;
 using System;
 using System.Data;
 using System.Text;

@@ -1,4 +1,7 @@
-﻿using EdjCase.JsonRpc.Router;
+﻿// Copyright (c) 2018 FiiiLab Technology Ltd
+// Distributed under the MIT software license, see the accompanying
+// file LICENSE or or http://www.opensource.org/licenses/mit-license.php.
+using EdjCase.JsonRpc.Router;
 using EdjCase.JsonRpc.Router.Abstractions;
 using Microsoft.AspNetCore.Mvc;
 using System;
