@@ -51,3 +51,15 @@ Reward Halving: 5,000,000 blocks
 Hash Function: SHA3-256
 
 Database: SQLite
+
+# Getting Started
+
+1. Run the node by executing the FiiiChain.Node which is located at the Node\Presentation folder
+
+2. Run the wallet by executing the FiiiCoin.Wallet.Win in the Wallet folder
+
+3. Run the mining application by executing the FiiiCoin.Miner in the Wallet folder
+
+# Change Log
+
+2018-08-13 15:52	Added alpha version source code
