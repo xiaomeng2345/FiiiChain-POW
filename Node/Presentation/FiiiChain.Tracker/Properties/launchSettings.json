@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiChain.Tracker": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet"
+    }
+  }
+}

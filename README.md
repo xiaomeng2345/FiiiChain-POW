@@ -46,4 +46,8 @@ Block Time: 60 seconds
 
 Block Reward: 250 FIII
 
+Reward Halving: 5,000,000 blocks
+
 Hash Function: SHA3-256
+
+Database: SQLite

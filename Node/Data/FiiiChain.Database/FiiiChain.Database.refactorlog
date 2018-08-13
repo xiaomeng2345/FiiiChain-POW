@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="dbaaf8b0-e82e-4351-8c6f-cd94cbeb7122" ChangeDateTime="05/15/2018 03:04:39">
+    <Property Name="ElementName" Value="[dbo].[OutputList].[UnSpent]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[OutputList]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Unspent" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="702d2f49-1e7b-4e2a-8206-32e28126c78d" ChangeDateTime="05/24/2018 09:25:34">
+    <Property Name="ElementName" Value="[dbo].[OutputList].[Hash]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[OutputList]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Index" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="59087d99-5fd2-4dc8-b705-a4c8e689ab01" ChangeDateTime="05/24/2018 09:39:45">
+    <Property Name="ElementName" Value="[dbo].[InputList].[OutputHash]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[InputList]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="OutputIndex" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="37af955d-19cd-4a0d-b37d-b5bbd8d39afc" ChangeDateTime="05/25/2018 07:32:21">
+    <Property Name="ElementName" Value="[dbo].[OutputList].[Unspent]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[OutputList]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Spent" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d751fdf8-0500-4fbd-8317-7510264d9dd2" ChangeDateTime="06/27/2018 06:42:04">
+    <Property Name="ElementName" Value="[dbo].[Settings].[Key]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Settings]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Confirmations" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b3b4c579-c77e-475c-adef-c0ab2361b51b" ChangeDateTime="06/27/2018 09:22:06">
+    <Property Name="ElementName" Value="[dbo].[Accounts].[Observed]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Accounts]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="WatchedOnly" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6577d3f6-c236-4f18-a8c1-da3a8b89b120" ChangeDateTime="07/05/2018 01:57:43">
+    <Property Name="ElementName" Value="[dbo].[Blacklist].[expired]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Blacklist]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Expired" />
+  </Operation>
+</Operations>

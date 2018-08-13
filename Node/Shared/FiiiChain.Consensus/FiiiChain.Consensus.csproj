@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Configurations>Debug;Release;Pro</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\FiiiChain.Entities\FiiiChain.Entities.csproj" />
+    <ProjectReference Include="..\..\Shared\FiiiChain.Messages\FiiiChain.Messages.csproj" />
+  </ItemGroup>
+
+</Project>
