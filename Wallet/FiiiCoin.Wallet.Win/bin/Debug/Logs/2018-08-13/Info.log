@@ -1,0 +1,566 @@
+??:2018-08-13 11:41:48,196 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:41:52,432 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 287,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 455238718,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:41:52,460 ??:GetTxSettings 
+??:2018-08-13 11:41:52,655 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:41:52,670 ??:GetDefaultAccount 
+??:2018-08-13 11:41:52,768 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",  "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",  "Balance": 0,  "IsDefault": true,  "WatchOnly": false,  "Tag": null}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:41:52,804 ??:GetTxSettings 
+??:2018-08-13 11:41:52,804 ??:GetListTransactions 
+??:2018-08-13 11:41:53,449 ??:GetAddressBook 
+??:2018-08-13 11:41:54,408 ??:GetAddressesByTag 
+??:2018-08-13 11:41:55,804 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:01,776 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:01,893 ??:[] 
+??:2018-08-13 11:42:01,894 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 294,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 453762628,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:01,928 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>[  {    "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",    "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",    "Balance": 0,    "IsDefault": true,    "WatchOnly": false,    "Tag": null  }]</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:04,985 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:05,046 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 294,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 453762628,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:08,070 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:08,095 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 296,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 453552063,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:11,117 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:11,174 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 309,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 451439424,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:12,016 ??:GetListTransactions 
+??:2018-08-13 11:42:14,229 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:14,261 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 309,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 451439424,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:17,274 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:17,317 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 309,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 451439424,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:20,325 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:20,359 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 314,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 450637569,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:22,121 ??:GetListTransactions 
+??:2018-08-13 11:42:23,382 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:23,420 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 314,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 450637569,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:26,435 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:26,528 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 314,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 450637569,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:29,562 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:29,584 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 324,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 448608259,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:32,169 ??:GetListTransactions 
+??:2018-08-13 11:42:32,595 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:32,680 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 329,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 447118096,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:35,699 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:35,724 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 329,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 447118096,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:38,732 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:38,871 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 332,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 446478232,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:41,884 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:41,916 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 332,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 446478232,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:42,263 ??:GetListTransactions 
+??:2018-08-13 11:42:44,927 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:44,954 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 332,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 446478232,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:47,961 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:48,076 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 344,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 443184138,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:51,125 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:51,181 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 347,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 442842558,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:52,375 ??:GetListTransactions 
+??:2018-08-13 11:42:54,212 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:54,260 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 347,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 442842558,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:42:57,272 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:42:57,299 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 347,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 442842558,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:00,307 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:00,330 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 356,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 441348394,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:02,603 ??:GetListTransactions 
+??:2018-08-13 11:43:03,348 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:03,491 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 356,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 441348394,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:06,566 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:06,603 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 356,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 441348394,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:09,611 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:09,672 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 363,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 440519175,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:12,655 ??:GetListTransactions 
+??:2018-08-13 11:43:12,686 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:12,937 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 363,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 440519175,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:15,950 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:15,971 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 363,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 440519175,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:18,978 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:19,008 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 371,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 439266818,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:22,015 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:22,074 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 373,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 439241356,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:22,966 ??:GetListTransactions 
+??:2018-08-13 11:43:25,088 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:25,116 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 373,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 439241356,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:28,122 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:28,169 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 378,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 438882771,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:31,185 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:31,227 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 380,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 438817845,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:33,031 ??:GetListTransactions 
+??:2018-08-13 11:43:34,237 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:34,391 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 380,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 438817845,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:48,480 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:49,309 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 399,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434953863,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:49,329 ??:GetTxSettings 
+??:2018-08-13 11:43:49,527 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:49,553 ??:GetDefaultAccount 
+??:2018-08-13 11:43:49,827 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",  "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",  "Balance": 0,  "IsDefault": true,  "WatchOnly": false,  "Tag": null}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:49,860 ??:GetTxSettings 
+??:2018-08-13 11:43:49,860 ??:GetListTransactions 
+??:2018-08-13 11:43:49,860 ??:GetAddressBook 
+??:2018-08-13 11:43:50,773 ??:GetAddressesByTag 
+??:2018-08-13 11:43:52,859 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:43:58,365 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:58,611 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>[  {    "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",    "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",    "Balance": 0,    "IsDefault": true,    "WatchOnly": false,    "Tag": null  }]</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:58,679 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:43:58,733 ??:[] 
+??:2018-08-13 11:44:01,703 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:01,731 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:04,739 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:04,778 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:07,796 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:07,855 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:08,805 ??:GetListTransactions 
+??:2018-08-13 11:44:10,863 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:10,937 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:13,961 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:14,059 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:17,096 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:17,149 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:18,842 ??:GetListTransactions 
+??:2018-08-13 11:44:20,172 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:20,198 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:23,207 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:23,255 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:26,269 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:26,292 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 404,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434248159,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:28,916 ??:GetListTransactions 
+??:2018-08-13 11:44:29,300 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:29,363 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 405,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434227534,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:32,375 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:32,425 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 405,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434227534,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:35,433 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:35,487 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 405,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 434227534,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:38,493 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:38,552 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 419,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 431234859,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:38,963 ??:GetListTransactions 
+??:2018-08-13 11:44:41,564 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:41,587 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 420,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 431183736,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:44,599 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:44,622 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 420,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 431183736,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:47,632 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:47,685 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 420,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 431183736,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:44:49,028 ??:GetListTransactions 
+??:2018-08-13 11:44:50,715 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:44:50,751 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 435,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 430413066,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:45:04,799 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:45:05,426 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 437,  "RemoteLatestBlockHeight": 1423,  "TimeOffset": 430337745,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:45:05,442 ??:GetTxSettings 
+??:2018-08-13 11:45:05,486 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:45:05,493 ??:GetDefaultAccount 
+??:2018-08-13 11:45:05,559 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",  "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",  "Balance": 0,  "IsDefault": true,  "WatchOnly": false,  "Tag": null}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:45:05,598 ??:GetTxSettings 
+??:2018-08-13 11:45:05,598 ??:GetListTransactions 
+??:2018-08-13 11:45:05,598 ??:GetAddressBook 
+??:2018-08-13 11:45:06,207 ??:GetAddressesByTag 
+??:2018-08-13 11:45:08,602 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:45:58,809 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:45:59,737 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 483,  "RemoteLatestBlockHeight": 1424,  "TimeOffset": 426773947,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:45:59,760 ??:GetTxSettings 
+??:2018-08-13 11:45:59,871 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:45:59,885 ??:GetDefaultAccount 
+??:2018-08-13 11:45:59,939 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",  "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",  "Balance": 0,  "IsDefault": true,  "WatchOnly": false,  "Tag": null}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:45:59,984 ??:GetTxSettings 
+??:2018-08-13 11:45:59,989 ??:GetListTransactions 
+??:2018-08-13 11:46:00,550 ??:GetAddressBook 
+??:2018-08-13 11:46:01,551 ??:GetAddressesByTag 
+??:2018-08-13 11:46:02,985 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:51:29,075 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:51:29,917 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 722,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 393075193,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:29,966 ??:GetTxSettings 
+??:2018-08-13 11:51:30,249 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:30,258 ??:GetDefaultAccount 
+??:2018-08-13 11:51:30,325 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",  "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",  "Balance": 0,  "IsDefault": true,  "WatchOnly": false,  "Tag": null}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:30,418 ??:GetListTransactions 
+??:2018-08-13 11:51:30,418 ??:GetTxSettings 
+??:2018-08-13 11:51:30,419 ??:GetAddressBook 
+??:2018-08-13 11:51:30,951 ??:GetAddressesByTag 
+??:2018-08-13 11:51:33,033 ??:[] 
+??:2018-08-13 11:51:33,383 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:51:34,480 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:35,580 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 722,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 393075193,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:35,679 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>[  {    "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",    "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",    "Balance": 0,    "IsDefault": true,    "WatchOnly": false,    "Tag": null  }]</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:38,591 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:51:38,654 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 734,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 390265762,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:41,661 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:51:41,714 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 737,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 389874850,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:44,722 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:51:44,755 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 737,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 389874850,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:45,731 ??:GetListTransactions 
+??:2018-08-13 11:51:58,120 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:51:58,943 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 752,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 387942270,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:58,972 ??:GetTxSettings 
+??:2018-08-13 11:51:59,037 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:59,064 ??:GetDefaultAccount 
+??:2018-08-13 11:51:59,133 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",  "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",  "Balance": 0,  "IsDefault": true,  "WatchOnly": false,  "Tag": null}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:51:59,174 ??:GetTxSettings 
+??:2018-08-13 11:51:59,174 ??:GetListTransactions 
+??:2018-08-13 11:51:59,174 ??:GetAddressBook 
+??:2018-08-13 11:51:59,713 ??:GetAddressesByTag 
+??:2018-08-13 11:52:02,175 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:06,001 ??:[] 
+??:2018-08-13 11:52:06,077 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 758,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 387231158,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:06,132 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:06,165 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>[  {    "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",    "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",    "Balance": 0,    "IsDefault": true,    "WatchOnly": false,    "Tag": null  }]</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:09,110 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:09,164 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 765,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 385602943,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:12,191 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:12,227 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 772,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 384839577,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:15,241 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:15,277 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 772,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 384839577,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:15,979 ??:GetListTransactions 
+??:2018-08-13 11:52:18,293 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:18,338 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 773,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 384827731,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:21,353 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:21,386 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 776,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 384058747,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:24,402 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:24,426 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 776,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 384058747,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:26,077 ??:GetListTransactions 
+??:2018-08-13 11:52:27,433 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:27,541 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 780,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 383533636,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:30,553 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:30,667 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 790,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 382018813,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:33,676 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:33,719 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 791,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 381995357,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:36,139 ??:GetListTransactions 
+??:2018-08-13 11:52:36,730 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:36,774 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 791,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 381995357,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:39,789 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:39,841 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 793,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 381938870,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:42,857 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:42,936 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 793,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 381938870,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:45,965 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:45,990 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 793,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 381938870,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:46,176 ??:GetListTransactions 
+??:2018-08-13 11:52:49,001 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:49,045 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 806,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 380538739,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:52,074 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:52,123 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 808,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 380382735,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:55,129 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:55,156 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 808,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 380382735,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:52:56,218 ??:GetListTransactions 
+??:2018-08-13 11:52:58,171 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:52:58,208 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 808,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 380382735,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:01,239 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:01,295 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:04,330 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:06,317 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:06,492 ??:GetListTransactions 
+??:2018-08-13 11:53:09,511 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:09,543 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:12,553 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:12,597 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:15,624 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:15,664 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:17,225 ??:GetListTransactions 
+??:2018-08-13 11:53:18,678 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:18,715 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:21,736 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:21,768 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:24,775 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:24,807 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:27,271 ??:GetListTransactions 
+??:2018-08-13 11:53:27,816 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:27,885 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:30,900 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:30,919 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:33,930 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:34,187 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:37,209 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:37,246 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 821,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377910795,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:37,379 ??:GetListTransactions 
+??:2018-08-13 11:53:40,314 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:40,363 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 822,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377672578,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:43,373 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:43,427 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 822,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377672578,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:46,471 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:46,525 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 822,  "RemoteLatestBlockHeight": 1428,  "TimeOffset": 377672578,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:47,454 ??:GetListTransactions 
+??:2018-08-13 11:53:49,574 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:49,623 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 836,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 376761812,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:52,640 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:52,665 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 840,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 375829960,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:55,672 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:55,701 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 840,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 375829960,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:53:57,620 ??:GetListTransactions 
+??:2018-08-13 11:53:58,709 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:53:58,826 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 840,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 375829960,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:01,876 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:01,920 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 851,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 373926155,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:04,925 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:04,950 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 851,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 373926155,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:07,685 ??:GetListTransactions 
+??:2018-08-13 11:54:07,959 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:07,982 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 851,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 373926155,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:10,989 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:11,018 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 853,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 373737020,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:14,033 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:14,055 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 853,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 373737020,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:17,062 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:17,121 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 853,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 373737020,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:17,722 ??:GetListTransactions 
+??:2018-08-13 11:54:20,138 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:20,241 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 864,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 371562818,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:23,247 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:23,272 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 866,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 371315330,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:26,287 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:26,355 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 866,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 371315330,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:27,790 ??:GetListTransactions 
+??:2018-08-13 11:54:29,380 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:29,442 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 873,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 369551488,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:32,449 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:32,543 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 873,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 369551488,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:35,553 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:35,586 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 873,  "RemoteLatestBlockHeight": 1429,  "TimeOffset": 369551488,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:37,884 ??:GetListTransactions 
+??:2018-08-13 11:54:38,614 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:38,932 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 881,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 368837112,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:41,971 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:42,079 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 887,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 367258219,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:45,088 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:45,132 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 887,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 367258219,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:47,927 ??:GetListTransactions 
+??:2018-08-13 11:54:48,137 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:48,211 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 888,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 367216444,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:51,218 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:51,242 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 891,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 366749794,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:54,251 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:54,336 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 891,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 366749794,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:54:57,981 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:54:58,010 ??:GetListTransactions 
+??:2018-08-13 11:54:58,130 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 902,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 364708767,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:01,192 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:01,451 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 906,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 364244319,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:04,473 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:04,520 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 906,  "RemoteLatestBlockHeight": 1430,  "TimeOffset": 364244319,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:06,201 ??:SetNetworkActive 
+??:2018-08-13 11:55:08,623 ??:GetListTransactions 
+??:2018-08-13 11:55:08,658 ??:SetNetworkActive 
+??:2018-08-13 11:55:08,721 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:18,553 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:18,779 ??:GetListTransactions 
+??:2018-08-13 11:55:26,180 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": -1,  "RemoteLatestBlockHeight": -1,  "TimeOffset": -1,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:29,205 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:29,267 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": -1,  "RemoteLatestBlockHeight": -1,  "TimeOffset": -1,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:39,815 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:40,440 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 909,  "RemoteLatestBlockHeight": 1431,  "TimeOffset": 363620686,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:40,461 ??:GetTxSettings 
+??:2018-08-13 11:55:40,505 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:40,511 ??:GetDefaultAccount 
+??:2018-08-13 11:55:40,556 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",  "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",  "Balance": 0,  "IsDefault": true,  "WatchOnly": false,  "Tag": null}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:40,601 ??:GetTxSettings 
+??:2018-08-13 11:55:40,601 ??:GetListTransactions 
+??:2018-08-13 11:55:40,601 ??:GetAddressBook 
+??:2018-08-13 11:55:41,343 ??:GetAddressesByTag 
+??:2018-08-13 11:55:43,601 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:50,151 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>[  {    "Address": "fiiit6TVoL5S6jichnbYKBb1Hadk1JjeceP6Xo",    "PublicKey": "302A300506032B6570032100CBB0A005CBEC409BC53907BFB63151730922AF6B43570FF18A387D0E981F2BC8",    "Balance": 0,    "IsDefault": true,    "WatchOnly": false,    "Tag": null  }]</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:50,178 ??:[] 
+??:2018-08-13 11:55:50,255 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 922,  "RemoteLatestBlockHeight": 1431,  "TimeOffset": 360967967,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:50,297 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "Confirmations": 1,  "FeePerKB": 100000,  "Encrypt": false}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:53,266 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:53,366 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 927,  "RemoteLatestBlockHeight": 1431,  "TimeOffset": 360660939,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:56,373 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:56,491 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 927,  "RemoteLatestBlockHeight": 1431,  "TimeOffset": 360660939,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:55:59,520 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:55:59,559 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 927,  "RemoteLatestBlockHeight": 1431,  "TimeOffset": 360660939,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:00,222 ??:GetListTransactions 
+??:2018-08-13 11:56:02,572 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:02,619 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 936,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 359667503,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:05,630 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:05,653 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 938,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 359502673,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:08,668 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:08,742 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 938,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 359502673,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:10,264 ??:GetListTransactions 
+??:2018-08-13 11:56:11,763 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:11,800 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 938,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 359502673,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:14,808 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:14,854 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 940,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 359294447,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:17,884 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:17,925 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 940,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 359294447,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:20,307 ??:GetListTransactions 
+??:2018-08-13 11:56:20,936 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:20,965 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 940,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 359294447,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:23,972 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:24,073 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 951,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 357932596,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:27,086 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:27,117 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 955,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 357306763,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:30,125 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:30,170 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 955,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 357306763,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:30,342 ??:GetListTransactions 
+??:2018-08-13 11:56:33,178 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:33,244 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 957,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 357233012,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:36,255 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:36,310 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 957,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 357233012,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:39,320 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:39,346 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 957,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 357233012,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:40,381 ??:GetListTransactions 
+??:2018-08-13 11:56:42,355 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:42,395 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 970,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 355634197,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:45,411 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:45,523 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 971,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 355285155,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:48,531 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:48,557 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 971,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 355285155,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:50,426 ??:GetListTransactions 
+??:2018-08-13 11:56:51,572 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:51,604 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 972,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 355173431,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:54,629 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:54,694 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 975,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 355009112,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:56:57,713 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:56:57,746 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 975,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 355009112,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:00,517 ??:GetListTransactions 
+??:2018-08-13 11:57:00,754 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:00,818 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 975,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 355009112,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:03,831 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:03,864 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 986,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 353445699,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:06,910 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:06,985 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 990,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 352537081,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:10,008 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:10,069 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 990,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 352537081,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:10,569 ??:GetListTransactions 
+??:2018-08-13 11:57:13,076 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:13,112 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 995,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 351042841,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:16,123 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:16,202 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 995,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 351042841,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:19,217 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:19,274 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 995,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 351042841,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:20,656 ??:GetListTransactions 
+??:2018-08-13 11:57:22,286 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:22,377 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1005,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 348924722,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:25,393 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:25,455 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1006,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 348737399,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:28,482 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:28,545 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1006,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 348737399,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:30,755 ??:GetListTransactions 
+??:2018-08-13 11:57:31,560 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:31,680 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1009,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 348072602,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:34,694 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:34,747 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1013,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 347802222,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:37,758 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:37,782 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1013,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 347802222,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:40,792 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:40,809 ??:GetListTransactions 
+??:2018-08-13 11:57:40,880 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1013,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 347802222,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:43,904 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:44,136 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1021,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 345188358,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:47,155 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:47,178 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1022,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 344917324,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:50,190 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:50,214 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1022,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 344917324,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:50,931 ??:GetListTransactions 
+??:2018-08-13 11:57:53,225 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:53,255 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1028,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 343692306,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:56,272 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:57:56,344 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1037,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 341344917,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:57:59,419 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:01,135 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1037,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 341344917,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:01,241 ??:GetListTransactions 
+??:2018-08-13 11:58:04,319 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:04,465 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1038,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 341188998,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:07,486 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:07,631 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1038,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 341188998,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:10,676 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:10,766 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1038,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 341188998,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:11,664 ??:GetListTransactions 
+??:2018-08-13 11:58:13,798 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:13,840 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1052,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336724995,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:16,883 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:16,956 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1053,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336650026,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:19,987 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:20,064 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1053,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336650026,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:21,767 ??:GetListTransactions 
+??:2018-08-13 11:58:23,143 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:23,230 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1053,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336650026,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:26,270 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:26,317 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1053,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336650026,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:29,330 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:29,403 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1053,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336650026,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:32,073 ??:GetListTransactions 
+??:2018-08-13 11:58:32,425 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:32,478 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1053,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336650026,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:35,510 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:35,556 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:38,571 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:38,702 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:41,715 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:41,794 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:42,159 ??:GetListTransactions 
+??:2018-08-13 11:58:44,812 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:44,841 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:47,856 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:48,431 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:51,469 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:51,508 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:52,291 ??:GetListTransactions 
+??:2018-08-13 11:58:54,546 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:54,580 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:58:57,597 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:58:57,677 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:00,721 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:00,769 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:02,457 ??:GetListTransactions 
+??:2018-08-13 11:59:03,792 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:03,830 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:06,858 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:06,894 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:09,913 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:09,946 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1056,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 336119651,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:12,547 ??:GetListTransactions 
+??:2018-08-13 11:59:12,975 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:13,736 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1058,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 335789273,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:17,229 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:17,369 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1058,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 335789273,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:20,425 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:20,498 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1058,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 335789273,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:22,669 ??:GetListTransactions 
+??:2018-08-13 11:59:23,618 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:23,789 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1071,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 329255874,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:26,828 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:26,930 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1073,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 328358620,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:29,975 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:30,049 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1073,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 328358620,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:33,370 ??:GetListTransactions 
+??:2018-08-13 11:59:33,719 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:35,669 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1073,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 328358620,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:38,798 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:38,944 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1076,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327890931,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:42,108 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:42,848 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:45,631 ??:GetListTransactions 
+??:2018-08-13 11:59:45,927 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:46,366 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:49,460 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:50,011 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:53,032 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:53,076 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:55,777 ??:GetListTransactions 
+??:2018-08-13 11:59:56,093 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:56,129 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 11:59:59,136 ??:GetBlockChainInfoSync 
+??:2018-08-13 11:59:59,179 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:02,188 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:02,209 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:05,220 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:05,260 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:05,817 ??:GetListTransactions 
+??:2018-08-13 12:00:08,273 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:08,324 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:11,344 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:11,391 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1078,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 327457425,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:14,402 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:14,449 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1081,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 326460538,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:15,855 ??:GetListTransactions 
+??:2018-08-13 12:00:17,499 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:17,616 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1081,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 326460538,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:20,627 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:20,678 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1081,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 326460538,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:23,685 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:23,748 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1093,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 324216326,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:26,201 ??:GetListTransactions 
+??:2018-08-13 12:00:26,772 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:26,826 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1096,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 323866279,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:29,838 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:29,858 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1096,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 323866279,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:32,865 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:32,913 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1099,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 323422234,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:35,921 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:35,961 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1104,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 322331268,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:36,238 ??:GetListTransactions 
+??:2018-08-13 12:00:38,976 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:39,004 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1104,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 322331268,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:42,013 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:42,057 ??:<log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>{  "IsRunning": true,  "Connections": 4,  "LocalLastBlockHeight": 1111,  "RemoteLatestBlockHeight": 1432,  "TimeOffset": 319607518,  "LocalLastBlockTime": 0,  "TempBlockCount": 0}</format><args>{}</args></log4net.Error> 
+??:2018-08-13 12:00:45,069 ??:GetBlockChainInfoSync 
+??:2018-08-13 12:00:46,279 ??:GetListTransactions 

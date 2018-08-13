@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiCoin.Wallet.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "wallet \"P@ssw0rd\" -p"
+    }
+  }
+}

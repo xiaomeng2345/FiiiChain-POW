@@ -1,0 +1,29 @@
+??:2018-08-13 11:55:15,495 ??:Error occurred when trying to send rpc requests(s) ??:  
+??:2018-08-13 12:00:53,423 ??:Error occurred when trying to send rpc requests(s) ??:  
+??:2018-08-13 12:00:53,502 ??:Error occurred when trying to send rpc requests(s) ??:  
+??:2018-08-13 12:00:53,503 ??:Custom error code is:-2146233088 ??:  
+??:2018-08-13 12:00:53,506 ??:Custom error reason is:System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5006
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at EdjCase.JsonRpc.Client.RpcClient.<SendAsync>d__36`2.MoveNext() ??:  
+??:2018-08-13 12:00:54,671 ??:Error occurred when trying to send rpc requests(s) ??:  
+??:2018-08-13 12:00:57,591 ??:Error occurred when trying to send rpc requests(s) ??:  
+??:2018-08-13 12:00:57,591 ??:Custom error code is:-2146233088 ??:  
+??:2018-08-13 12:00:57,592 ??:Custom error reason is:System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:5006
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at EdjCase.JsonRpc.Client.RpcClient.<SendAsync>d__36`2.MoveNext() ??:  

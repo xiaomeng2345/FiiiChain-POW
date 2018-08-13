@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FiiiCoin.Miner": {
+      "commandName": "Project",
+      "commandLineArgs": "mining wangshibang fiiitPy8XkrmGYXAxHnnQuj16u6ifjdMkWSfeC"
+    }
+  }
+}
