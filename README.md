@@ -44,6 +44,8 @@ Subunits: 1/100000000
 
 Block Time: 60 seconds
 
+Block Size: 12MB
+
 Block Reward: 250 FIII
 
 Reward Halving: 5,000,000 blocks
@@ -70,11 +72,11 @@ For expert:
 
 4. Run the mining application by executing the FiiiCoin.Miner in the Wallet folder
 
-# Mining FiiiCoin
+# Mining
 
 1. Run the wallet with administrator rights
 
-2. Wait for block synchronization complete
+2. Wait for block synchronization to be complete
 
 3. Click Receive Address from the top menu of the wallet
 
