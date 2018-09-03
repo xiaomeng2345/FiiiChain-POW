@@ -217,9 +217,47 @@ namespace FiiiChain.Business
             }
         }
 
+        //public List<UtxoMsg> GetAllConfirmedOutputs()
+        //{
+        //    return UtxoSet.Instance.GetAllUnspentOutputs();
+        //}
+
+
         public List<UtxoMsg> GetAllConfirmedOutputs()
         {
-            return UtxoSet.Instance.GetAllUnspentOutputs();
+            List<UtxoMsg> utxoMsgs = new List<UtxoMsg>();
+
+            var outputDac = new OutputDac();
+            var txDac = new TransactionDac();
+            var blockDac = new BlockDac();
+            var accountDac = new AccountDac();
+
+            var lastHeight = -1L;
+            var lastBlock = blockDac.SelectLast();
+
+            if (lastBlock != null)
+            {
+                lastHeight = lastBlock.Height;
+            }
+            var outputs = outputDac.SelectAllUnspentOutputs();
+            
+            foreach (var output in outputs)
+            {
+                var msg = new UtxoMsg();
+                msg.AccountId = output.ReceiverId;
+                msg.TransactionHash = output.TransactionHash;
+                msg.OutputIndex = output.Index;
+                msg.Amount = output.Amount;
+                msg.IsConfirmed = true;
+                var account = accountDac.SelectById(msg.AccountId);
+                msg.IsWatchedOnly = account.WatchedOnly;
+
+                var txEntity = txDac.SelectByHash(output.TransactionHash);
+                msg.BlockHash = txEntity != null ? txEntity.BlockHash : null;
+                utxoMsgs.Add(msg);
+            }
+
+            return utxoMsgs;
         }
 
         //result is List<txid + "," + vout>

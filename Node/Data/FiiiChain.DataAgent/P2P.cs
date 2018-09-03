@@ -171,7 +171,7 @@ namespace FiiiChain.DataAgent
             if (this.IsRunning)
             {
                 this.IsRunning = false;
-                //this.server.Close();
+                this.server.Close();
             }
         }
         public void Send(P2PCommand command, string address, int port)

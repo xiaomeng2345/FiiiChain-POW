@@ -184,7 +184,8 @@ namespace FiiiChain.Wallet.API
                     index++;
                 }
 
-                if (totalInput < totalAmount)
+                var totalAmountLong = Convert.ToInt64(totalAmount);
+                if (totalInput < totalAmountLong)
                 {
                     throw new CommonException(ErrorCode.Service.Transaction.BALANCE_NOT_ENOUGH);
                 }
@@ -197,7 +198,8 @@ namespace FiiiChain.Wallet.API
                     {
                         if(feeDeductAddresses.Contains(receivers[i].address))
                         {
-                            tx.Outputs[i].Amount -= (long)Math.Ceiling(averageFee);
+                            var fee = Convert.ToInt64(averageFee);
+                            tx.Outputs[i].Amount -= fee;
 
                             if (tx.Outputs[i].Amount <= 0)
                             {
@@ -561,8 +563,8 @@ namespace FiiiChain.Wallet.API
 
                     index++;
                 }
-
-                if (totalInput < totalAmount)
+                var totalAmountLong = Convert.ToInt64(totalAmount);
+                if (totalInput < totalAmountLong)
                 {
                     throw new CommonException(ErrorCode.Service.Transaction.BALANCE_NOT_ENOUGH);
                 }
