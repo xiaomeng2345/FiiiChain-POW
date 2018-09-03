@@ -1,2 +1,7 @@
 
+*.ide
+*.lock
 *.bak
+*.dbmdl
+*.jfm
+*.cache
