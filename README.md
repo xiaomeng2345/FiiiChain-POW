@@ -85,11 +85,3 @@ For expert:
 5. Download and extract FiiiCoin.Miner_portable.zip
 
 6. Execute dotnet FiiiCoin.Miner.dll mining <Worker> <Wallet Address>
-
-# Resources
-
-1. [Yellow Paper](https://fiii.io/images/doc/fiiicoin.yellowpaper.v01.pdf)
-
-2. [White Paper](https://fiii.io/images/doc/whitepaper.pdf)
-
-3. [Official Website](https://fiii.io)
