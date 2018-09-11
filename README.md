@@ -36,7 +36,7 @@ Programming Language: C#
 
 Digital Signature Algorithm: Ed25519
 
-Consensus Algorithm: Delegate Proof of Capacity
+Consensus Algorithm: Proof of Work
 
 Supply Limit: 4,999,999,999.92724000
 
