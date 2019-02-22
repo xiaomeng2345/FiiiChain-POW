@@ -123,8 +123,11 @@
   <data name="MainnetStoragePath" xml:space="preserve">
     <value>Storage</value>
   </data>
+  <data name="MainnetTrackerPort" xml:space="preserve">
+    <value>44333</value>
+  </data>
   <data name="MainnetTrackerServer" xml:space="preserve">
-    <value>192.168.1.94</value>
+    <value>192.168.1.67</value>
   </data>
   <data name="TestnetPort" xml:space="preserve">
     <value>44111</value>
@@ -132,7 +135,10 @@
   <data name="TestnetStoragePath" xml:space="preserve">
     <value>Storage_Test</value>
   </data>
+  <data name="TestnetTrackerPort" xml:space="preserve">
+    <value>44000</value>
+  </data>
   <data name="TestnetTrackerServer" xml:space="preserve">
-    <value>192.168.1.94</value>
+    <value>192.168.1.67</value>
   </data>
 </root>

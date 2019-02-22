@@ -142,6 +142,11 @@ namespace FiiiChain.DataAgent
 
             //IPEndPoint ip = new IPEndPoint(IPAddress.Any, 54321);
             IPEndPoint ip = new IPEndPoint(IPAddress.Any, int.Parse(GlobalParameters.IsTestnet ? Resource.TestnetPort : Resource.MainnetPort));
+
+            if (isTracker)
+            {
+                ip = new IPEndPoint(IPAddress.Any, int.Parse(GlobalParameters.IsTestnet ? Resource.TestnetTrackerPort : Resource.MainnetTrackerPort));
+            }
             this.server = new UdpClient(ip);
 
             this.Peers = new List<P2PNode>();
@@ -158,7 +163,7 @@ namespace FiiiChain.DataAgent
             if (!this.isTrackerNode)
             {
                 string trackerIp = GlobalParameters.IsTestnet ? Resource.TestnetTrackerServer : Resource.MainnetTrackerServer;
-                int trackerPort = int.Parse(GlobalParameters.IsTestnet ? Resource.TestnetPort : Resource.MainnetPort);
+                int trackerPort = int.Parse(GlobalParameters.IsTestnet ? Resource.TestnetTrackerPort : Resource.MainnetTrackerPort);
                 this.ConnectToNewPeer(trackerIp, trackerPort, true);
             }
 

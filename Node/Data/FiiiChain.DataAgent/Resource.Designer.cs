@@ -47,7 +47,7 @@ namespace FiiiChain.DataAgent {
         }
         
         /// <summary>
-        ///   使用此强类型资源类，为所有资源查找
+        ///   重写当前线程的 CurrentUICulture 属性
         ///   重写当前线程的 CurrentUICulture 属性。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
@@ -79,7 +79,16 @@ namespace FiiiChain.DataAgent {
         }
         
         /// <summary>
-        ///   查找类似 192.168.1.94 的本地化字符串。
+        ///   查找类似 44333 的本地化字符串。
+        /// </summary>
+        internal static string MainnetTrackerPort {
+            get {
+                return ResourceManager.GetString("MainnetTrackerPort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 192.168.1.67 的本地化字符串。
         /// </summary>
         internal static string MainnetTrackerServer {
             get {
@@ -106,7 +115,16 @@ namespace FiiiChain.DataAgent {
         }
         
         /// <summary>
-        ///   查找类似 192.168.1.94 的本地化字符串。
+        ///   查找类似 44000 的本地化字符串。
+        /// </summary>
+        internal static string TestnetTrackerPort {
+            get {
+                return ResourceManager.GetString("TestnetTrackerPort", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 192.168.1.67 的本地化字符串。
         /// </summary>
         internal static string TestnetTrackerServer {
             get {
