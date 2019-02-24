@@ -664,23 +664,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xiechunjian\\.nuget\\packages\\": {},
+    "C:\\Users\\Sylvester\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "E:\\FiiiChain_POW\\FiiiChain-POW\\Node\\Shared\\FiiiChain.DTO\\FiiiChain.DTO.csproj",
+      "projectUniqueName": "D:\\GitHub\\FiiiChain-POW\\Node\\Shared\\FiiiChain.DTO\\FiiiChain.DTO.csproj",
       "projectName": "FiiiChain.DTO",
-      "projectPath": "E:\\FiiiChain_POW\\FiiiChain-POW\\Node\\Shared\\FiiiChain.DTO\\FiiiChain.DTO.csproj",
-      "packagesPath": "C:\\Users\\xiechunjian\\.nuget\\packages\\",
-      "outputPath": "E:\\FiiiChain_POW\\FiiiChain-POW\\Node\\Shared\\FiiiChain.DTO\\obj\\",
+      "projectPath": "D:\\GitHub\\FiiiChain-POW\\Node\\Shared\\FiiiChain.DTO\\FiiiChain.DTO.csproj",
+      "packagesPath": "C:\\Users\\Sylvester\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\FiiiChain-POW\\Node\\Shared\\FiiiChain.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\xiechunjian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sylvester\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

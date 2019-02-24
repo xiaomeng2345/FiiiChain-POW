@@ -14,8 +14,8 @@ namespace FiiiChain.Consensus
     public class POW
     {
         private long height;
-        const long initCoins = (long)2E+11;
-        const long genesisBlockCoins = (long)2.5E+17;
+        const long initCoins = (long)5E+9;
+        const long genesisBlockCoins = (long)5E+9; //(long)2.5E+17;
         //block generate reward will be decuct half for every 500000 blocks 
         const long blockRewardHalveStep = 500000L;
         //micro second, 5 minutes
@@ -24,7 +24,7 @@ namespace FiiiChain.Consensus
         public const long DiffiucltyAdjustStep = 4032;
         //the value of target when difficulty = 1
         readonly BigInteger target_1 = BigInteger.Parse("00000000FFFFFF00000000000000000000000000000000000000000000000000", NumberStyles.AllowHexSpecifier);
-        const long defaultBits = 0x2005F5E0; //0.00000001:2005F5E0; 0.0001:1E270FFF; 0.001:0x1E03E7FF; 0.01:0x1D63FFFF; 0.1:0x1D09FFFF; 1:0x1d00FFFF
+        const long defaultBits = 0x1E270FFF; //0.00000001:2005F5E0; 0.0001:1E270FFF; 0.001:0x1E03E7FF; 0.01:0x1D63FFFF; 0.1:0x1D09FFFF; 1:0x1d00FFFF
 
         public POW(long height)
         {

@@ -63,8 +63,8 @@ namespace FiiiChain.Node
             P2PJob.Stop();
             RpcService.Stop();
             BlockService.Stop();
-            MinerService.Stop();
-            TransactionService.Stop();
+            //MinerService.Stop();
+            //TransactionService.Stop();
         }
 
         public Dictionary<string, string> GetJobStatus()

@@ -10,8 +10,8 @@
 
 namespace FiiiChain.DataAgent {
     using System;
-
-
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -23,15 +23,15 @@ namespace FiiiChain.DataAgent {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resource {
-
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
         internal Resource() {
         }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
@@ -45,10 +45,10 @@ namespace FiiiChain.DataAgent {
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
-        ///   重写当前线程的 CurrentUICulture 属性
-        ///   重写当前线程的 CurrentUICulture 属性。
+        ///   Overrides the current thread's CurrentUICulture property for all
+        ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
         internal static global::System.Globalization.CultureInfo Culture {
@@ -59,16 +59,16 @@ namespace FiiiChain.DataAgent {
                 resourceCulture = value;
             }
         }
-
+        
         /// <summary>
-        ///   Looks up a localized string similar to 33333.
+        ///   Looks up a localized string similar to 33334.
         /// </summary>
         internal static string MainnetPort {
             get {
                 return ResourceManager.GetString("MainnetPort", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   Looks up a localized string similar to Storage.
         /// </summary>
@@ -77,34 +77,34 @@ namespace FiiiChain.DataAgent {
                 return ResourceManager.GetString("MainnetStoragePath", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   查找类似 44333 的本地化字符串。
+        ///   Looks up a localized string similar to 33333.
         /// </summary>
         internal static string MainnetTrackerPort {
             get {
                 return ResourceManager.GetString("MainnetTrackerPort", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   查找类似 192.168.1.67 的本地化字符串。
+        ///   Looks up a localized string similar to 47.254.193.128.
         /// </summary>
         internal static string MainnetTrackerServer {
             get {
                 return ResourceManager.GetString("MainnetTrackerServer", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   Looks up a localized string similar to 44444.
+        ///   Looks up a localized string similar to 44445.
         /// </summary>
         internal static string TestnetPort {
             get {
                 return ResourceManager.GetString("TestnetPort", resourceCulture);
             }
         }
-
+        
         /// <summary>
         ///   Looks up a localized string similar to Storage_Test.
         /// </summary>
@@ -113,18 +113,18 @@ namespace FiiiChain.DataAgent {
                 return ResourceManager.GetString("TestnetStoragePath", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   查找类似 44000 的本地化字符串。
+        ///   Looks up a localized string similar to 44444.
         /// </summary>
         internal static string TestnetTrackerPort {
             get {
                 return ResourceManager.GetString("TestnetTrackerPort", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   查找类似 192.168.1.67 的本地化字符串。
+        ///   Looks up a localized string similar to 47.254.193.128.
         /// </summary>
         internal static string TestnetTrackerServer {
             get {

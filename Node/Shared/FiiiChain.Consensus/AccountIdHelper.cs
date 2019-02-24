@@ -11,8 +11,8 @@ namespace FiiiChain.Consensus
 {
     public class AccountIdHelper
     {
-        private const int testnetPrefix = 0x56EF9700;
-        private const int mainnetPrefix = 0x56EFA4A9;
+        private const int testnetPrefix = 0x4ABB4165;
+        private const int mainnetPrefix = 0x4ABB3300;
         private const int prefixLen = 4;
 
         public static string CreateAccountAddress(byte[] publicKey)
