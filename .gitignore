@@ -375,3 +375,5 @@ Node/.vs/FiiiCoin/v15/.suo
 *.jfm
 Node/Data/FiiiChain.Database/FiiiChain.Database.dbmdl
 Node/Data/FiiiChain.Database/FiiiChain.Database.jfm
+*.dbmdl
+*.jfm
