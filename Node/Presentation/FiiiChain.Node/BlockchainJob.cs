@@ -54,7 +54,7 @@ namespace FiiiChain.Node
             P2PJob.Start();
             RpcService.Start();
             BlockService.Start();
-            //MinerService.Start();
+            MinerService.Start();
             //TransactionService.Start();
         }
 

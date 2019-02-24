@@ -1,0 +1,9 @@
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\bin\Debug\FiiiChain.Database.dacpac
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\bin\Debug\FiiiChain.Database.dll
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\bin\Debug\FiiiChain.Database.pdb
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\obj\Debug\Model.xml
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\obj\Debug\refactor.xml
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\obj\Debug\postdeploy.sql
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\obj\Debug\predeploy.sql
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\obj\Debug\FiiiChain.Database.dll
+E:\FiiiChain_POW\FiiiChain-POW\Node\Data\FiiiChain.Database\obj\Debug\FiiiChain.Database.pdb
