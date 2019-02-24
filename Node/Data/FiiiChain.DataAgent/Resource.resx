@@ -118,21 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainnetPort" xml:space="preserve">
-    <value>44222</value>
+    <value>33333</value>
   </data>
   <data name="MainnetStoragePath" xml:space="preserve">
     <value>Storage</value>
   </data>
   <data name="MainnetTrackerServer" xml:space="preserve">
-    <value>192.168.1.94</value>
+    <value>47.254.193.128</value>
   </data>
   <data name="TestnetPort" xml:space="preserve">
-    <value>44111</value>
+    <value>44444</value>
   </data>
   <data name="TestnetStoragePath" xml:space="preserve">
     <value>Storage_Test</value>
   </data>
   <data name="TestnetTrackerServer" xml:space="preserve">
-    <value>192.168.1.94</value>
+    <value>47.254.193.128</value>
   </data>
 </root>

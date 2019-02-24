@@ -6855,11 +6855,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Miner\\FiiiCoin.Miner.csproj",
+      "projectUniqueName": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Miner\\FiiiCoin.Miner.csproj",
       "projectName": "FiiiCoin.Miner",
-      "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Miner\\FiiiCoin.Miner.csproj",
+      "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Miner\\FiiiCoin.Miner.csproj",
       "packagesPath": "C:\\Users\\Sylvester\\.nuget\\packages\\",
-      "outputPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Miner\\obj\\",
+      "outputPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Miner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6878,14 +6878,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj": {
-              "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj"
+            "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj": {
+              "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj"
             },
-            "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj": {
-              "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj"
+            "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj": {
+              "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj"
             },
-            "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
-              "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
+            "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
+              "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
             }
           }
         }

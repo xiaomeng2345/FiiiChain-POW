@@ -6313,11 +6313,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Wallet.Cli\\FiiiCoin.Wallet.Cli.csproj",
+      "projectUniqueName": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Wallet.Cli\\FiiiCoin.Wallet.Cli.csproj",
       "projectName": "FiiiCoin.Wallet.Cli",
-      "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Wallet.Cli\\FiiiCoin.Wallet.Cli.csproj",
+      "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Wallet.Cli\\FiiiCoin.Wallet.Cli.csproj",
       "packagesPath": "C:\\Users\\Sylvester\\.nuget\\packages\\",
-      "outputPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Wallet.Cli\\obj\\",
+      "outputPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Wallet.Cli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6336,11 +6336,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj": {
-              "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj"
+            "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj": {
+              "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Business\\FiiiCoin.Business.csproj"
             },
-            "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
-              "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
+            "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
+              "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
             }
           }
         }

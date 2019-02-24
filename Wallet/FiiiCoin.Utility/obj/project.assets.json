@@ -6024,11 +6024,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj",
+      "projectUniqueName": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj",
       "projectName": "FiiiCoin.Utility",
-      "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj",
+      "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj",
       "packagesPath": "C:\\Users\\Sylvester\\.nuget\\packages\\",
-      "outputPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\obj\\",
+      "outputPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

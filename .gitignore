@@ -370,3 +370,8 @@ Wallet/FiiiCoin.Utility/obj/Debug/netstandard2.0/FiiiCoin.Utility.Localization.S
 Wallet/FiiiCoin.Utility/obj/Debug/netstandard2.0/FiiiCoin.Utility.Localization.SourceFiles.FiiiCoinLocalization.zh.resources
 Wallet/FiiiCoin.ServiceAgent/obj/Debug/netstandard2.0/FiiiCoin.ServiceAgent.csproj.FileListAbsolute.txt
 *.dbmdl
+Node/.vs/FiiiCoin/v15/.suo
+*.dbmdl
+*.jfm
+Node/Data/FiiiChain.Database/FiiiChain.Database.dbmdl
+Node/Data/FiiiChain.Database/FiiiChain.Database.jfm

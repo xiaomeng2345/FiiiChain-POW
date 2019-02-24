@@ -24,7 +24,7 @@ namespace FiiiChain.Consensus
         public const long DiffiucltyAdjustStep = 4032;
         //the value of target when difficulty = 1
         readonly BigInteger target_1 = BigInteger.Parse("00000000FFFFFF00000000000000000000000000000000000000000000000000", NumberStyles.AllowHexSpecifier);
-        const long defaultBits = 0x1E03E7FF; //0.0001:1E270FFF; 0.001:0x1E03E7FF; 0.01:0x1D63FFFF; 0.1:0x1D09FFFF; 1:0x1d00FFFF
+        const long defaultBits = 0x2005F5E0; //0.00000001:2005F5E0; 0.0001:1E270FFF; 0.001:0x1E03E7FF; 0.01:0x1D63FFFF; 0.1:0x1D09FFFF; 1:0x1d00FFFF
 
         public POW(long height)
         {
@@ -62,7 +62,7 @@ namespace FiiiChain.Consensus
 
                 var newDifficulty = oldDifficulty * (actualTimespan / targetTimespan);
                 //var newDifficulty = 0.1;
-                var newTargetText = (target_1 * 10000 / new BigInteger(Math.Round(newDifficulty,4) * 10000)).ToString("X");
+                var newTargetText = (target_1 * (long)1e15 / new BigInteger(Math.Round(newDifficulty,15) * (long)1e15)).ToString("X");
                 
                 if(newTargetText.Length % 2 != 0)
                 {

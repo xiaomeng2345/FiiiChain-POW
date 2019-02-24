@@ -6055,11 +6055,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj",
+      "projectUniqueName": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj",
       "projectName": "FiiiCoin.DTO",
-      "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj",
+      "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.DTO\\FiiiCoin.DTO.csproj",
       "packagesPath": "C:\\Users\\Sylvester\\.nuget\\packages\\",
-      "outputPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.DTO\\obj\\",
+      "outputPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -6080,15 +6080,15 @@
       "frameworks": {
         "net45": {
           "projectReferences": {
-            "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
-              "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
+            "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
+              "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
             }
           }
         },
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
-              "projectPath": "D:\\FiiiCoin.Wallet\\FiiiCoin.Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
+            "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj": {
+              "projectPath": "D:\\GitHub\\FiiiChain-POW\\Wallet\\FiiiCoin.Utility\\FiiiCoin.Utility.csproj"
             }
           }
         }
