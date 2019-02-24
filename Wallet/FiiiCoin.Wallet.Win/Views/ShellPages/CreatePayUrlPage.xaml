@@ -36,7 +36,7 @@
             <TextBox.Text>
                 <Binding Path="UrlInfo.Address" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                     <Binding.ValidationRules>
-                        <rules:RegexRule ErrorMsg="Error_Address" Pattern="(fiiim|fiiit)[0-9a-zA-Z]{33}"/>
+                        <rules:RegexRule ErrorMsg="Error_Address" Pattern="(magT|mag1)[0-9a-zA-Z]{34}"/>
                     </Binding.ValidationRules>
                 </Binding>
             </TextBox.Text>

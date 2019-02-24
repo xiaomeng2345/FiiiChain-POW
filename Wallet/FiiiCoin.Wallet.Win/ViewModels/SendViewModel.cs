@@ -331,7 +331,7 @@ namespace FiiiCoin.Wallet.Win.ViewModels
         }
 
         RegexRule _regexRule = null;
-        private const string _addressPattern = "(fiiim|fiiit)[0-9a-zA-Z]{33}";
+        private const string _addressPattern = "(magT|mag1)[0-9a-zA-Z]{34}";
         bool ValidateData(ItemsControl items)
         {
             if (!Validator.IsValid(items))

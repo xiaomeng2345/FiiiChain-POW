@@ -24,7 +24,7 @@ namespace FiiiCoin.Utility
                 {
                     if (networkType.ToLower() == "testnet")
                     {
-                        if (address.StartsWith("trx2"))
+                        if (address.StartsWith("magT"))
                         {
                             byte[] bytes = Base58.Decode(address);
                             byte[] temp = bytes.Skip(bytes.Length - 4).Take(4).ToArray();
@@ -35,7 +35,7 @@ namespace FiiiCoin.Utility
                     }
                     else
                     {
-                        if (address.StartsWith("trxa"))
+                        if (address.StartsWith("mag1"))
                         {
                             byte[] bytes = Base58.Decode(address);
                             byte[] temp = bytes.Skip(bytes.Length - 4).Take(4).ToArray();
